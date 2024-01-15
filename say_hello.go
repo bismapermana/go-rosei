@@ -1,5 +1,5 @@
 package gorosei
 
-func SayHello() string {
-	return "Golang 2"
+func SayHello(name string) string {
+	return "Golang 2" + name
 }
