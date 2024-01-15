@@ -1,5 +1,5 @@
 package gorosei
 
 func SayHello() string {
-	return "Golang "
+	return "Golang 2"
 }
